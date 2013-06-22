@@ -1,7 +1,7 @@
 Bank-Notes-Dispenser-and-Calculator
 ===================================
 
-This program calculates the change required by a user, after a transaction according to the denominations available
+This program, written in C++, calculates the change required by a user, after a transaction according to the denominations available
 
 This program calculates the change required by a buyer, after a purchase according to the denominations available
 
