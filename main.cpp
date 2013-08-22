@@ -2,7 +2,6 @@
 /* This program is created by Damilare Ezekiel Adewale, /
 /* Masters in Computer System Engineering student at the/
 /* University of Glamorgan, Pontypridd. UK              /
-/* Created for Microsoft Corporation.                   /
 /*******************************************************/
 
 /*********************************************************************/
